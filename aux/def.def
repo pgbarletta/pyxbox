@@ -1,0 +1,17 @@
+G Protein
+a 1 6036
+a 6037 7961
+
+G Solvent
+n SOL
+n NA
+
+G System
+g Protein
+g Solvent
+
+A Protein
+
+C Protein Protein Protein W W W
+
+P Solvent Solvent Solvent
